@@ -1,4 +1,4 @@
-# Sucesso Videograme analisando padrões
+# Padrões que determinam o sucesso de um jogo de Videogame
 
 ## Objetivo do Projeto
 Identificar padrões que determinam se um jogo tem sucesso ou não. Isso permitirá que você identifique potenciais grandes vencedores e planeje campanhas publicitárias.
