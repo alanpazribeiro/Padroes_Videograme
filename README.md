@@ -23,8 +23,8 @@ Identificar padrões que determinam se um jogo tem sucesso ou não. Isso permiti
   - *EU_sales* (vendas na Europa em milhões de USD)
   - *JP_sales* (vendas no Japão em milhões de USD)
   - *Other_sales* (vendas em outros países em em milhões de USD)
-  - *Critic_Score* - (Pontuação crítica) (máximo de 100)
-  - *User_Score* - (Pontuação do usuário) (máximo de 10)
+  - *Critic_Score* (Pontuação crítica) (máximo de 100)
+  - *User_Score* (Pontuação do usuário) (máximo de 10)
   - *Classificação* (ESRB)
      
 ## Hipóteses a serem testadas:
