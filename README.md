@@ -32,3 +32,14 @@ Identificar padrões que determinam se um jogo tem sucesso ou não. Isso permiti
   - "As classificações médias de usuários para os gêneros Action (ação) e Sports (esportes) são diferentes."
      
    *Alpha: a critério
+
+   # Execução do Projeto
+   - Passo 1. Carregamento os dados e prepare-os para a análise
+  - Verificado tipo de dado
+  - Nulos/faltantes
+  - organizar/renomear colunas
+  - colunas tipo datetime
+  - amplitude das variáveis
+  - tipos de dados categóricos
+  - valores duplicados
+  - espaços e caracteres especiais nos dados
